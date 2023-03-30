@@ -181,3 +181,287 @@
 </tr>
 </table>
 </br>
+
+<h2><i>💻 Projects I Worked On</i></h2>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=WordSection1>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=96 valign=top style='width:71.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:Dosis;mso-bidi-font-family:"Times New Roman"'>Project Name<o:p></o:p></span></b></p>
+  </td>
+  <td width=196 valign=top style='width:147.35pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:Dosis;mso-bidi-font-family:"Times New Roman"'>Description<o:p></o:p></span></b></p>
+  </td>
+  <td width=170 valign=top style='width:127.15pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:Dosis;mso-bidi-font-family:"Times New Roman"'>Responsibilities<o:p></o:p></span></b></p>
+  </td>
+  <td width=162 valign=top style='width:121.25pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:Dosis;mso-bidi-font-family:"Times New Roman"'>URL<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=96 valign=top style='width:71.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-family:Dosis'>Falaya</span></span><span style='font-family:Dosis'><o:p></o:p></span></p>
+  </td>
+  <td width=196 valign=top style='width:147.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>A
+  platform for the Real Estate Marketplace that provides complete solution from<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>advertising
+  a property to accepting the offer allowing both buyers and sellers to<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=GramE><span
+  style='font-family:Dosis'>easily</span></span><span style='font-family:Dosis'>
+  execute a transaction on their own with digital paperwork.<o:p></o:p></span></p>
+  </td>
+  <td width=170 valign=top style='width:127.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:Dosis'>Leading the Web/Mobile Team.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:Dosis'>Writing Frontend and backend code <o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:Dosis'>Managing the deployments on <span
+  class=SpellE>aws</span>.<o:p></o:p></span></p>
+  </td>
+  <td width=162 valign=top style='width:121.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>https://falaya.com<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=96 valign=top style='width:71.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><span
+  style='font-family:Dosis'>Propdispatch</span></span><span style='font-family:
+  Dosis'><o:p></o:p></span></p>
+  </td>
+  <td width=196 valign=top style='width:147.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>A
+  Multi-tenant application for managing and tracking Real-time sand jobs, loads
+  and<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=GramE><span
+  style='font-family:Dosis'>tenants</span></span><span style='font-family:Dosis'>
+  involved in the process.<o:p></o:p></span></p>
+  </td>
+  <td width=170 valign=top style='width:127.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:Dosis'>Working in backend team to write
+  server code<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:Dosis'>Handle the cloud functions on GCP<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:Dosis'>Writing complex SQL queries<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:Dosis'>Managing the database with almost
+  more than 100 tables<o:p></o:p></span></p>
+  </td>
+  <td width=162 valign=top style='width:121.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>https://propdispatch.com<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=96 valign=top style='width:71.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>Matador<o:p></o:p></span></p>
+  </td>
+  <td width=196 valign=top style='width:147.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>A tool
+  To help telecom operators, internet service providers, and law enforcement<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>agencies
+  by automating the interception provisioning, the mediation, and the handover<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=GramE><span
+  style='font-family:Dosis'>of</span></span><span style='font-family:Dosis'>
+  the collected data according to the required specifications.<o:p></o:p></span></p>
+  </td>
+  <td width=170 valign=top style='width:127.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:Dosis'>Leading the backend team, writing
+  scripts in <span class=SpellE>nodejs<span class=GramE>,Go,Python</span></span>
+  to manage process of handling, manipulating and inserting billions of records
+  per day and managing the big data part using clickhouse.<o:p></o:p></span></p>
+  </td>
+  <td width=162 valign=top style='width:121.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>Deployed
+  on Private Cloud<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width=96 valign=top style='width:71.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>Quantum
+  BI<o:p></o:p></span></p>
+  </td>
+  <td width=196 valign=top style='width:147.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>Quantum-BI
+  is a platform specifically designed to deliver intelligence to operators that<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>can
+  help them deliver packages to their consumers based on trends, usage and time
+  etc.<o:p></o:p></span></p>
+  </td>
+  <td width=170 valign=top style='width:127.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:Dosis'>Leading the backend team, writing the
+  <span class=GramE>APIs<span style='mso-spacerun:yes'>  </span>in</span> <span
+  class=SpellE>nodejs</span>, writing scripts in Go to manage process of
+  handling, manipulating and inserting billions of records per day and managing
+  the big data part using clickhouse.<o:p></o:p></span></p>
+  </td>
+  <td width=162 valign=top style='width:121.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>Deployed
+  on Private Cloud<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td width=96 valign=top style='width:71.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>Genesis<o:p></o:p></span></p>
+  </td>
+  <td width=196 valign=top style='width:147.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>Genesis
+  is Big Data as a service tool for Tera bytes to Peta bytes storage.<o:p></o:p></span></p>
+  </td>
+  <td width=170 valign=top style='width:127.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:Dosis'>Leading the backend team, and
+  managing the insertion of data and extraction of data from clickhouse in near
+  <span class=SpellE>realtime</span><o:p></o:p></span></p>
+  </td>
+  <td width=162 valign=top style='width:121.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>Deployed
+  on Private Cloud<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;mso-yfti-lastrow:yes'>
+  <td width=96 valign=top style='width:71.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>Vortex<o:p></o:p></span></p>
+  </td>
+  <td width=196 valign=top style='width:147.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>Vortex
+  is an Inter-carrier Settlement Solution and a CDR reconciliation tool for <span
+  class=SpellE>Telcos</span>.<o:p></o:p></span></p>
+  </td>
+  <td width=170 valign=top style='width:127.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:Dosis'>Leading the project team, handling
+  the backend APIs and managing the data gathering from multiple SFTPs and
+  processing, reconciliation and insertion of gathered data into clickhouse and
+  provide reporting on the base of that data.<o:p></o:p></span></p>
+  </td>
+  <td width=162 valign=top style='width:121.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>Deployed
+  on Private Cloud<o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+

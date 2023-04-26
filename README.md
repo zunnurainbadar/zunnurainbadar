@@ -23,7 +23,7 @@
 </tr>
   <tr>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/css.png" width="250" >
+        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/css.svg" width="250" >
     </td>
     <td align='center' width="250">
         <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/tailwind.svg"width="250" >

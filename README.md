@@ -313,6 +313,45 @@
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>Atrios<o:p></o:p></span></p>
+  </td>
+  <td width=196 valign=top style='width:147.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>Atrios
+  is a cloud-based security application that offers protection against DDoS
+  attacks, filters DNS content, and controls threats. It caters to the needs of
+  enterprises by automating the provisioning process, regardless of the
+  distributed locations, and enhancing visibility into network end-users and
+  devices.<o:p></o:p></span></p>
+  </td>
+  <td width=170 valign=top style='width:127.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:Dosis'>Leading the backend team,<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:Dosis'>Writing scripts, deploying and
+  configuring <span class=SpellE>dnsdist</span> along with <span class=SpellE>knotDNS</span>
+  resolvers, managing the big data part using clickhouse and generating
+  analytics based on the logs stored.<o:p></o:p></span></p>
+  </td>
+  <td width=162 valign=top style='width:121.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>https://atrios.io<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width=96 valign=top style='width:71.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span style='font-family:Dosis'>Matador<o:p></o:p></span></p>
   </td>
   <td width=196 valign=top style='width:147.35pt;border-top:none;border-left:
@@ -349,7 +388,7 @@
   on Private Cloud<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:4'>
+ <tr style='mso-yfti-irow:5'>
   <td width=96 valign=top style='width:71.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
@@ -389,7 +428,7 @@
   on Private Cloud<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:5'>
+ <tr style='mso-yfti-irow:6'>
   <td width=96 valign=top style='width:71.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
@@ -422,7 +461,7 @@
   on Private Cloud<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:6;mso-yfti-lastrow:yes'>
+ <tr style='mso-yfti-irow:7;mso-yfti-lastrow:yes'>
   <td width=96 valign=top style='width:71.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
@@ -458,7 +497,6 @@
   </td>
  </tr>
 </table>
-
 <p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
 
 </div>

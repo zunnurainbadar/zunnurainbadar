@@ -1,8 +1,8 @@
 # Hi there, I'm Zunnurain Badar
 
-### I'm a Co-Founder | Software Engineer | Big Data Developer | Full Stack Developer
-- 🔭 I’m currently working as VP Engineering
-- 🌱 I’m currently learning Nodejs, Go, Kubernetes, Openstack, Kafka, Clickhouse.
+### I'm a Software Engineer | Big Data Developer | Full Stack Developer
+- 🔭 I’m currently working as Senior Software Engineer
+- 🌱 I’m currently learning Go, Kubernetes, Openstack, Kafka, Dnsdist.
 
 <h2><i>💻 Technologies/Tools I am Familiar with</i></h2>
 <h3> Frontend </h3>

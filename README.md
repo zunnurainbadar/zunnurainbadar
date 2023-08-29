@@ -497,8 +497,6 @@
   </td>
  </tr>
 </table>
-[![Zunnurain's github stats](https://github-readme-stats.vercel.app/api?username=zunnurainbadar&theme=gotham&show_icons=true&count_private=true)](https://github.com/zunnurainbadar)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zunnurainbadar&theme=gotham&show_icons=true&layout=compact)](https://github.com/zunnurainbadar)
 
 <p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
 
@@ -506,3 +504,5 @@
 
 </body>
 
+[![Zunnurain's github stats](https://github-readme-stats.vercel.app/api?username=zunnurainbadar&theme=gotham&show_icons=true&count_private=true)](https://github.com/zunnurainbadar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zunnurainbadar&theme=gotham&show_icons=true&layout=compact)](https://github.com/zunnurainbadar)

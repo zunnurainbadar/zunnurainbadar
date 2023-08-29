@@ -1,8 +1,8 @@
 # Hi there, I'm Zunnurain Badar
 
 ### I'm a Software Engineer | Big Data Developer | Full Stack Developer
-- 🔭 I’m currently working as Senior Software Engineer
-- 🌱 I’m currently learning Go, Kubernetes, Openstack, Kafka, Dnsdist.
+- 🔭 I’m currently working as a Senior Software Engineer
+- 🌱 I’m currently learning Go, Kubernetes, Kafka, and Dnsdist.
 
 <h2><i>💻 Technologies/Tools I am Familiar with</i></h2>
 <h3> Frontend </h3>
@@ -497,6 +497,9 @@
   </td>
  </tr>
 </table>
+[![Zunnurain's github stats](https://github-readme-stats.vercel.app/api?username=zunnurainbadar&theme=gotham&show_icons=true&count_private=true)](https://github.com/zunnurainbadar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zunnurainbadar&theme=gotham&show_icons=true&layout=compact)](https://github.com/zunnurainbadar)
+
 <p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
 
 </div>

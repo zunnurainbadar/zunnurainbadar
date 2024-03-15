@@ -344,7 +344,8 @@
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span style='font-family:Dosis'>https://atrios.io<o:p></o:p></span></p>
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>Deployed
+  on Private Cloud<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4'>

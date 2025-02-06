@@ -5,14 +5,33 @@
 - 🌱 I’m currently learning Go, Kubernetes, Kafka, and Dnsdist.
 
 <h2><i>💻 Technologies/Tools I am Familiar with</i></h2>
+<h3> Backend </h3>
+<table width="100">
+<tr>
+    <td align='center' width="250">
+        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/nodejs.png" width="250" >
+    </td>
+    <td align='center' width="250">
+        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/golang.png" width="250">
+    </td>
+    <td align='center' width="250">
+        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/python.png" width="250" >
+    </td>
+    <td align='center' width="250">
+        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/php.svg" width="250">
+    </td>
+</tr>
+</table>
+</br>
+
 <h3> Frontend </h3>
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/angular.png" width="250" >
+        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/react.png"width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/react.png"width="250" >
+        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/angular.png" width="250" >
     </td>
     <td align='center' width="250">
         <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/javascript.png" width="250">
@@ -30,25 +49,6 @@
     </td>
     <td align='center' width="250">
         <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/ngzorro.svg" width="250">
-    </td>
-</tr>
-</table>
-</br>
-
-<h3> Backend </h3>
-<table width="100">
-<tr>
-    <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/nodejs.png" width="250" >
-    </td>
-    <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/python.png" width="250" >
-    </td>
-    <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/golang.png" width="250">
-    </td>
-     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/php.svg" width="250">
     </td>
 </tr>
 </table>

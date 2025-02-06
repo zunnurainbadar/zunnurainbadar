@@ -110,21 +110,24 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
+        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/nestjs.png" width="250" >
+    </td>
+    <td align='center' width="250">
         <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/expressjs.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/nestjs.png" width="250" >
-    </td>
-      <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/flask.png" width="250" >
-    </td>
-        <td align='center' width="250">
         <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/nextjs.svg" width="250" >
+    </td>
+    <td align='center' width="250">
+        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/graphql-icon.svg" width="250" >
     </td>
 </tr>
   <tr>
     <td align='center' width="250">
         <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/codeigniter.svg" width="250" >
+    </td>
+    <td align='center' width="250">
+        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/flask.png" width="250" >
     </td>
 </tr>
 </table>
